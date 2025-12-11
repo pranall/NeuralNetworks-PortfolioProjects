@@ -1,6 +1,6 @@
 # Feedforward Networks
 
-A structured neural-network implementation created to satisfy the constraints of a fixed testing framework (`test_nn.py`). The project produced multiple model variants—deep, wide, dropout, no-dropout, early-stopping, and no-early-stopping—and all models were validated exclusively through non-editable automated tests.
+A structured neural-network implementation created to satisfy the constraints of a fixed testing framework. The project produced multiple model variants like deep, wide, dropout, no-dropout, early-stopping, and no-early-stopping and all models were validated exclusively through non-editable automated tests.
 
 ---
 
